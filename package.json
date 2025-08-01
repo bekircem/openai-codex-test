@@ -1,0 +1,13 @@
+{
+  "name": "openai-codex-test",
+  "version": "1.0.0",
+  "description": "Bu repo, freelance çalışan kişiler için basit bir portfolio sitesini içerir. Aşağıdaki dosyalar mevcuttur:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
